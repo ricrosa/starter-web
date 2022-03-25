@@ -16,6 +16,8 @@ This is a simple wweb project, deployment can be on any web server or even local
 
 ## PurposeHow To Contribute
 
+Please fork this repository and then issue Pull Requests for review.
+
 ### Copyright
 
 2022 Git. Trainning.
